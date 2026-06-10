@@ -81,3 +81,18 @@ Multiple Components:
   
   Authentication Services
   
+<p align="center">
+  <img src="assets/diagram1.png">
+</p>
+
+<p align="center">
+  <img src="assets/diagram2.png">
+</p>
+
+<p align="center">
+  <img src="assets/diagram3.png">
+</p>
+
+<p align="center">
+  <img src="assets/diagram4.png">
+</p>
