@@ -1,4 +1,7 @@
-# Grand RazX RP Online
+<p align="center">
+  <img src="assets/banner.png">
+</p>
+
 Grand RazX RP Online is a cross-platform CRMP multiplayer project based on GTA San Andreas, allowing Android and PC players to connect and play together on the same server
 
 The project is being developed independently and has been under active development for over a year. Grand RazX RP Online combines Android development, native C++ integration, multiplayer server systems, authentication services, database management, and custom user interface design into a single ecosystem.
