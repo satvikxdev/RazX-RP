@@ -12,11 +12,19 @@ The project includes a custom Android launcher, account management systems, data
 
 ## ❀ The project includes
 ● Custom Android Launcher
+
 ● Cross-Platform Multiplayer Support (Android + PC)
+
 ● Native C++ Integration through JNI
+
 ● Multiplayer Server Development
+
 ● SQL Database Systems
+
 ● Firebase Authentication & Security
+
 ● Custom User Interface
+
 ● Player Account Management
+
 ● Gameplay & Roleplay Systems
