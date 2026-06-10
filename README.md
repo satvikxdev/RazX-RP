@@ -1,1 +1,1 @@
-# Grand RazX RP Online
+# Grand RazX RolePlay Online
