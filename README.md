@@ -30,6 +30,27 @@ Grand RazX RP Online is a custom-built CRMP (Multiplayer) ecosystem based on the
 
 ---
 
+## 🌐 Official Website & Pre-Registration Portal
+
+**Live Site:** [razx.netlify.app](https://razx.netlify.app/)
+
+To support the game's launch and build an initial player base, a dedicated web portal was developed from scratch for player pre-registration and community onboarding. The site organically ranks #1 on search engines for project-related keywords.
+
+### Web Technology Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Web Features
+* **Custom Frontend Architecture:** Built entirely with raw HTML, CSS, and vanilla JavaScript for maximum performance and complete control over the UI/UX layout and styling.
+* **Pre-Registration System:** Integrated directly with Firebase Authentication and Firebase Real-Time Database to securely capture and store user registrations before the official server launch.
+* **SEO Optimized:** Engineered for high search engine visibility, organically securing the #1 search ranking for game-related queries.
+* **Serverless Deployment:** Hosted globally via Netlify's edge network for rapid, reliable content delivery.
+
+---
+
 ## 🏗️ Core Engineering Infrastructure
 
 The platform is driven by a custom Android Launcher that serves as the central hub for authentication, secure asset delivery, and game execution. 
