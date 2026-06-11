@@ -151,7 +151,8 @@ Together, these modules provide secure account management, automated content del
 
 > **Grand RazX RP Online** is developed independently and represents over a year of continuous development across Android, C++, multiplayer server systems, backend infrastructure, authentication services, and database technologies.
 
-## 🎮 Gameplay Screenshots
+## 📸 Screenshots
+### 🎮 Gameplay Screenshots
 
 <p align="center">
   <img src="screenshots/game1.jpg" width="45%">
