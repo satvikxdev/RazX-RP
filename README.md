@@ -213,3 +213,67 @@ Configure your in-game identity including character details and profile informat
 </p>
 
 The launcher automatically downloads, verifies, and updates required game assets before launch.
+
+## 📂 Repository Purpose
+
+This repository serves as the official public showcase for **Grand RazX RP Online**, providing insight into the project's development, architecture, features, and progress.
+
+The repository contains:
+
+- 📖 Project Documentation
+- 📐 System Architecture Diagrams
+- 📱 Launcher Interface Screenshots
+- 🎮 Gameplay Screenshots
+- 🚀 Development Updates
+- ⚙️ Technical Overviews
+- 📊 Project Statistics & Progress Reports
+
+The purpose of this repository is to document the development journey of Grand RazX RP Online and provide transparency into the technologies, systems, and infrastructure powering the project.
+
+> **Note:** The source code is private and is not included in this repository. This repository is intended for project presentation, development tracking, community updates, and technical documentation only.
+
+## 🚀 Project Status
+
+**Grand RazX RP Online** is currently in the final stages of development and actively progressing toward public release.
+
+Core systems including authentication, account management, asset streaming, multiplayer connectivity, backend infrastructure, database integration, and launcher functionality have been successfully implemented and tested. Current development efforts are focused on final polishing, security enhancements, optimization, and quality assurance.
+
+### Current Status
+- ✅ Android Launcher Development
+- ✅ Authentication & Account Systems
+- ✅ Firebase Integration
+- ✅ Database Infrastructure
+- ✅ Asset Streaming & Updates
+- ✅ Multiplayer Server Connectivity
+- ✅ Native C++ Integration (JNI)
+- ✅ REST API Communication
+- ✅ Real-Time Synchronization Systems
+- 🚧 Final UI/UX Refinements
+- 🚧 Security & Stability Improvements
+- 🚧 Pre-Launch Testing Phase
+
+> Grand RazX RP Online remains under active development, with new features, optimizations, and improvements being implemented continuously as the project approaches launch.
+
+---
+
+## 👨‍💻 Lead Developer
+
+### Satvik Chaudhary
+
+Founder & Lead Developer of **Grand RazX RP Online**
+
+Responsible for the design, development, and integration of the project's core systems, including Android launcher development, backend infrastructure, multiplayer networking, database architecture, authentication services, asset delivery systems, and user experience design.
+
+### Contact
+
+📧 Email: **satvik.builds@gmail.com**
+
+💼 LinkedIn: **linkedin.com/in/satvikxdev**
+
+🌐 GitHub: **github.com/satvikxdev**
+
+---
+
+<p align="center">
+  <b>Building a modern cross-platform roleplay experience for Android and PC players.</b>
+</p>
