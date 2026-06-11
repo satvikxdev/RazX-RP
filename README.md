@@ -150,3 +150,24 @@ The launcher is built around four interconnected core modules:
 Together, these modules provide secure account management, automated content delivery, real-time backend communication, and a modern cross-platform launcher experience for both Android and PC players.
 
 > **Grand RazX RP Online** is developed independently and represents over a year of continuous development across Android, C++, multiplayer server systems, backend infrastructure, authentication services, and database technologies.
+
+## 📊 Development Statistics
+
+| Category | Details |
+|-----------|-----------|
+| ⏳ Development Duration | **1+ Year of Active Development** |
+| 👨‍💻 Lead Developer | **Satvik Chaudhary** |
+| 📝 Estimated Codebase | **80,000+ Lines of Code** |
+| 📱 Android Launcher | ✅ Fully Developed |
+| 🔐 Authentication System | ✅ Implemented |
+| 🗄️ Database Infrastructure | ✅ Operational |
+| 🌐 Backend APIs & Networking | ✅ Implemented |
+| 🎮 Multiplayer Server Systems | ✅ Active Development |
+| 📦 Asset Streaming & Updates | ✅ Functional |
+| ⚙️ Native C++ Modules (JNI) | ✅ Integrated |
+| ☁️ Firebase Authentication | ✅ Integrated |
+| 🔄 Real-Time Database Sync | ✅ Implemented |
+| 🛡️ Security & File Verification | ✅ Implemented |
+| 🎨 Custom UI/UX Framework | ✅ Implemented |
+
+> **Project Scope:** Grand RazX RP Online is a large-scale independent project combining Android development, native C++ integration, multiplayer server systems, backend infrastructure, authentication services, database management, asset streaming technology, and custom user interface design into a unified cross-platform ecosystem.
