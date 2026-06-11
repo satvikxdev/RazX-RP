@@ -150,8 +150,7 @@ The launcher is built around four interconnected core modules:
 Together, these modules provide secure account management, automated content delivery, real-time backend communication, and a modern cross-platform launcher experience for both Android and PC players.
 
 > **Grand RazX RP Online** is developed independently and represents over a year of continuous development across Android, C++, multiplayer server systems, backend infrastructure, authentication services, and database technologies.
-
-## 📸 Screenshots
+> 
 ### 🎮 Gameplay Screenshots
 
 <p align="center">
@@ -184,3 +183,33 @@ Together, these modules provide secure account management, automated content del
 | 🎨 Custom UI/UX Framework | ✅ Implemented |
 
 > **Project Scope:** Grand RazX RP Online is a large-scale independent project combining Android development, native C++ integration, multiplayer server systems, backend infrastructure, authentication services, database management, asset streaming technology, and custom user interface design into a unified cross-platform ecosystem.
+
+## 📱 Launcher Screenshots
+
+### Account Creation
+
+<p align="center">
+  <img src="screenshots/create-account.png">
+</p>
+
+Create a new Grand RazX RP Online account using the integrated authentication system.
+
+---
+
+### Character Registration
+
+<p align="center">
+  <img src="screenshots/character-registration.png">
+</p>
+
+Configure your in-game identity including character details and profile information.
+
+---
+
+### Asset Download & Installation
+
+<p align="center">
+  <img src="screenshots/downloader.png">
+</p>
+
+The launcher automatically downloads, verifies, and updates required game assets before launch.
