@@ -63,84 +63,90 @@ The project has been developed independently for over a year and combines Androi
 ![Windows](https://img.shields.io/badge/Windows_Development-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🚀 Launcher Features & Network Systems
-The Grand RazX RP Online Launcher is designed as a complete game delivery, authentication, and management platform. It acts as the bridge between players and the multiplayer ecosystem, handling account security, asset management, server communication, and user experience through a unified architecture.
+
+The Grand RazX RP Online Launcher serves as the central hub connecting players to the multiplayer ecosystem. It manages authentication, asset delivery, backend communication, and user experience through a unified and secure architecture.
 
 <p align="center">
-  <img src="assets/diagram1.png">
+  <img src="assets/diagram1.png" alt="Launcher Architecture" width="900">
 </p>
 
+---
+
 ### 🔐 Authentication & Security
-The launcher includes a modern authentication system that ensures secure account access and player data protection.
+
+A secure authentication framework designed to protect player accounts and maintain session integrity.
 
 #### Features
-- **Email & Password Login** – Secure authentication using verified credentials.
-- **Email & Password Registration** – Account creation with validation and security checks.
-- **Google OAuth Login** – One-click sign-in using Google accounts.
-- **Secure Session Validation** – Active session verification to prevent unauthorized access.
-- **User Profile Creation** – Player identity setup including personal profile information.
-- **Protected Sign-Out System** – Safe session termination and token cleanup.
+- Email & Password Login
+- Email & Password Registration
+- Google OAuth Authentication
+- Secure Session Validation
+- User Profile Creation
+- Protected Sign-Out System
 
-### Purpose
-These systems provide a secure environment for players while ensuring account integrity, authentication reliability, and protection against unauthorized access.
+#### Functionality
+The authentication layer verifies user credentials, manages active sessions, secures account data, and provides multiple sign-in methods for a seamless and secure login experience.
 
 ---
 
 ### 📦 Asset Management
 
-The launcher contains a dedicated asset delivery system responsible for downloading, updating, validating, and launching game files.
+A complete asset delivery and deployment system responsible for maintaining game files and updates.
 
 #### Features
-- **Automatic Asset Downloading** – Downloads required game resources automatically.
-- **Delta Update System** – Downloads only modified files to reduce bandwidth usage.
-- **File Integrity Verification** – Validates game files using checksum verification.
-- **Anti-Tamper Protection** – Detects unauthorized file modifications.
-- **Game Directory Configuration** – Allows installation and management of game files.
-- **Native Game Launch Execution** – Launches the game directly through the launcher pipeline.
+- Automatic Asset Downloading
+- Delta Update System
+- File Integrity Verification
+- Anti-Tamper Protection
+- Game Directory Configuration
+- Native Game Launch Execution
 
-#### Purpose
-The asset management layer ensures that every player is running the correct and latest game version while maintaining file consistency and security.
+#### Functionality
+This module automatically downloads required resources, validates file integrity, applies updates efficiently, and launches the game through a controlled deployment pipeline.
 
 ---
 
 ### 🌐 Network Systems
 
-The launcher communicates with backend services and multiplayer infrastructure through a dedicated networking layer.
+A dedicated communication layer connecting the launcher to backend services and multiplayer infrastructure.
 
 #### Features
-- **Server Connectivity Checks** – Verifies network availability before gameplay.
-- **REST API Communication** – Handles communication between client and backend services.
-- **Live Database Synchronization** – Retrieves and updates player information in real time.
-- **Real-Time Server Status Monitoring** – Displays current server availability and operational status.
+- Server Connectivity Checks
+- REST API Communication
+- Live Database Synchronization
+- Real-Time Server Status Monitoring
 
-#### Purpose
-These systems ensure stable communication between the launcher, backend infrastructure, authentication services, and multiplayer servers.
+#### Functionality
+The networking system enables secure communication between the launcher, authentication services, databases, and multiplayer servers while providing real-time status information.
 
 ---
 
 ### 🎨 User Experience
 
-The launcher is built with a modern and responsive user interface designed to provide a smooth onboarding experience.
+A modern and responsive interface designed to provide a smooth onboarding and gameplay preparation experience.
 
 #### Features
-- **Modern Login Interface** – Clean and intuitive authentication screens.
-- **Animated User Interface** – Interactive transitions and visual feedback.
-- **Dashboard & Profile System** – Centralized player information and account management.
-- **Community Shortcuts** – Quick access to Discord, website, and community resources.
-- **Support Center Integration** – Built-in navigation to support and assistance channels.
-- **Loading & Processing Screens** – Dedicated screens for downloads, updates, and game launch operations.
+- Modern Login Interface
+- Animated User Interface
+- Dashboard & Profile System
+- Community Shortcuts
+- Support Center Integration
+- Loading & Processing Screens
 
-#### Purpose
-The user experience layer focuses on accessibility, ease of use, and providing players with a polished launcher experience.
+#### Functionality
+The user experience layer focuses on accessibility, responsiveness, and usability, ensuring players can easily manage accounts, access community resources, and launch the game.
 
 ---
 
-### ⚙️ Architecture Overview
+### ⚙️ System Architecture
 
-The launcher operates through four interconnected modules:
+The launcher is built around four interconnected core modules:
 
 1. **Authentication & Security**
 2. **Asset Management**
 3. **Network Systems**
 4. **User Experience**
 
-Together, these systems form the foundation of Grand RazX RP Online, providing secure account management, reliable content delivery, real-time server communication, and a modern cross-platform gaming experience for both Android and PC players.
+Together, these modules provide secure account management, automated content delivery, real-time backend communication, and a modern cross-platform launcher experience for both Android and PC players.
+
+> **Grand RazX RP Online** is developed independently and represents over a year of continuous development across Android, C++, multiplayer server systems, backend infrastructure, authentication services, and database technologies.
