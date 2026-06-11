@@ -61,38 +61,7 @@ The project has been developed independently for over a year and combines Androi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_Development-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## ❀ Development Statistics
-Development Time: 1+ Year
-
-Sole Developer
-
-Estimated Codebase: 80,000+ Lines
-
-Multiple Components:
-
-  Android Launcher
-  
-  Native Client Modules
-  
-  Multiplayer Server Systems
-  
-  Database Systems
-  
-  Authentication Services
   
 <p align="center">
   <img src="assets/diagram1.png">
-</p>
-
-<p align="center">
-  <img src="assets/diagram2.png">
-</p>
-
-<p align="center">
-  <img src="assets/diagram3.png">
-</p>
-
-<p align="center">
-  <img src="assets/diagram4.png">
 </p>
